@@ -1,0 +1,22 @@
+{
+  "name": "cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Automated software testing with cypress and cucumber",
+  "main": "index.js",
+  "keywords": [
+    "cypress",
+    "cucumber",
+    "testing",
+    "automation",
+    "bdd",
+    "e2e"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "4.0.1"
+  }
+}
