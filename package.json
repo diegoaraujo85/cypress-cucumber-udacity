@@ -12,11 +12,13 @@
     "e2e"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cyr": "cypress run",
+    "cyo": "cypress open"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "4.0.1"
+    "cypress": "4.0.1",
+    "prettier": "^2.7.1"
   }
 }
